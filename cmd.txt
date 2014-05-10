@@ -1,0 +1,5 @@
+cd build; make; cd ..; ./bin/atoms -v --omp 0 -i 10 -n 100 -R -s 1 -o 1
+
+cd build; make; cd ..; ./bin/atoms -v -s 1 -o 1 conf/choc1.conf
+
+cd build; make; cd ..; ./bin/atoms -v --omp 1 -o 1 
