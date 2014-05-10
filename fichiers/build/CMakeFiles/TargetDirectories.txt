@@ -1,0 +1,2 @@
+/net/cremi/guithibault/PMG/Draft-Projet/fichiers/build/CMakeFiles/atoms.dir
+/net/cremi/guithibault/PMG/Draft-Projet/fichiers/build/libsotl/CMakeFiles/sotl.dir

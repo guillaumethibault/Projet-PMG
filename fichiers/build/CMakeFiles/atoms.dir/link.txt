@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/atoms.dir/src/main.c.o CMakeFiles/atoms.dir/src/tools.c.o  -o ../bin/atoms -rdynamic libsotl/libsotl.so -lOpenCL -lm -lgomp -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi -Wl,-rpath,/net/cremi/guithibault/PMG/Draft-Projet/fichiers/build/libsotl 
